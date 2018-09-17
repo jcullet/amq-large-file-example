@@ -1,0 +1,8 @@
+management:
+  port: 10001
+  security:
+    enabled: false
+
+endpoints:
+  jolokia:
+    sensitive: false
