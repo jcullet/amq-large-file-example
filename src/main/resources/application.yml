@@ -6,3 +6,9 @@ management:
 endpoints:
   jolokia:
     sensitive: false
+  hawtio:
+    sensitive: false
+
+hawtio:
+  authenticationEnabled: false
+  
